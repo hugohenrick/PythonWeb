@@ -1,5 +1,4 @@
-from Cliente.views import IndexTemplateView, ClienteListView, ClienteUpdateView, ClienteCreateView, \
-    ClienteDeleteView
+from Cliente.views import IndexTemplateView, ClienteListView, ClienteUpdateView, ClienteCreateView, ClienteDeleteView, listing
 
 from django.urls import path
 
